@@ -1,0 +1,8 @@
+sources:
+  - name: FHIR
+    handler:
+      fhir:
+        endpoint: http://hapi.fhir.org/baseR4
+serve:
+  port: 4000
+  exampleQuery: ./example-query.graphql

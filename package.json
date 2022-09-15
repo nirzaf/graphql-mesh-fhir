@@ -1,0 +1,16 @@
+{
+  "name": "graphql-mesh-fhir",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "mesh serve"
+  },
+  "dependencies": {
+    "@graphql-mesh/cli": "^0.28.0",
+    "@graphql-mesh/fhir": "^0.9.9",
+    "@graphql-mesh/graphql": "^0.14.1",
+    "@graphql-mesh/openapi": "^0.13.3",
+    "graphql": "^15.5.0"
+  },
+  "keywords": []
+}
